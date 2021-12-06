@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MithranM
-- 👀 I’m interested in buying Yu-Gi-Oh cards
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in software development
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mithran.mohanraj@gmail.com
 
