@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MithranM
 - 👀 I’m interested in developing data-driven applications
-- 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects with other recent grads or startups
 - 📫 How to reach me mithran.mohanraj@gmail.com or mmohanra@gmu.edu
 - 🧑‍💼 Connect with me at https://linkedin.com/in/mithran-mohanraj
 - 😎 Check my leetcode out too https://leetcode.com/u/mitmo/
